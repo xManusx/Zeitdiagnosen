@@ -23,3 +23,18 @@
 * Our society is highly interconnected (political system, social system, food system, financial system) (S 28)
 * Revolutionaries don't create revolutions, but systemic instabilities do.
 
+# Social Forces --- Revealing the causes of success and disaster
+* Like many physical phenomena are driven by hidden forces (e.g. gravity), success or failure of socio-economic systems depends on hidden forces to, which can be measured with new data about our world  (S 35)
+* Idea of nervousnet - a global, real-time information network, that is open to everybody. (S 40)
+* Idea of socio-physics (S 41)
+* Knowledge about "social forces" enables researchers to understand between micro-level interactions between individuals and the often unexpected macro-level interactions in socio-economic systems (S 41)
+* Similar to telescopes and stuff in phsycis, build "socioscopes", allowing us to measure these hidden social forces
+* Example: Fluid-dynamic theory of pedestrians. Derived by newtons force laws, applied to individual pedestrians. Validated in simulations, then finally, after refinement using video footage of pedestrians, closely reproducing actual pedestrian flow. (S 44)
+* Yielding unexpected findings: placing obstacles smartly in pedestrian flow can increase flow efficiency (S 45)
+* Force modeling obviously works for pedestrian flows, but can we use it for other stuff, like crime or forming ofopinions? Yes! => "social field", steepest slope in the "mountain range in the behavioral space is the social force, someone is subjected to (S 51)
+* Basis of civilizations is culture = numerous set of rules, social conventions, values, norms, roles and routines (S 51)
+* Mining on news articles of the last 100 years allows predictions of wars 6--12 months before the conflict (S 52)
+* Punitive culture only works in non-multi-cultural societies - if punishment is not accepted, the punished party will simply retaliate => move to a reputation based culture (S 54)
+* Social capital= everything that results from interactions within a social network which could potentially create benefits (e.g. public safety, culture of punctuality, reputation, trust, power, respect), factor in the success of societies (S 54)
+* Social capital can easily be burned, e.g. after a plane crash or in a financial crisis, when trust erodes (S 55)
+* Trust is only sustainable basis of power  and social order
