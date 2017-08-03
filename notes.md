@@ -24,17 +24,29 @@
 * Revolutionaries don't create revolutions, but systemic instabilities do.
 
 # Social Forces --- Revealing the causes of success and disaster
-* Like many physical phenomena are driven by hidden forces (e.g. gravity), success or failure of socio-economic systems depends on hidden forces to, which can be measured with new data about our world  (S 35)
+* Like many physical phenomena are driven by hidden forces (e.g. gravity), success or failure of socio-economic systems depends on hidden forces too, which can be measured with new data about our world  (S 35)
 * Idea of nervousnet - a global, real-time information network, that is open to everybody. (S 40)
 * Idea of socio-physics (S 41)
 * Knowledge about "social forces" enables researchers to understand between micro-level interactions between individuals and the often unexpected macro-level interactions in socio-economic systems (S 41)
 * Similar to telescopes and stuff in phsycis, build "socioscopes", allowing us to measure these hidden social forces
 * Example: Fluid-dynamic theory of pedestrians. Derived by newtons force laws, applied to individual pedestrians. Validated in simulations, then finally, after refinement using video footage of pedestrians, closely reproducing actual pedestrian flow. (S 44)
 * Yielding unexpected findings: placing obstacles smartly in pedestrian flow can increase flow efficiency (S 45)
-* Force modeling obviously works for pedestrian flows, but can we use it for other stuff, like crime or forming ofopinions? Yes! => "social field", steepest slope in the "mountain range in the behavioral space is the social force, someone is subjected to (S 51)
+* Force modeling obviously works for pedestrian flows, but can we use it for other stuff, like crime or forming of opinions? Yes! => "social field", steepest slope in the "mountain range in the behavioral space is the social force, someone is subjected to (S 51)
 * Basis of civilizations is culture = numerous set of rules, social conventions, values, norms, roles and routines (S 51)
 * Mining on news articles of the last 100 years allows predictions of wars 6--12 months before the conflict (S 52)
 * Punitive culture only works in non-multi-cultural societies - if punishment is not accepted, the punished party will simply retaliate => move to a reputation based culture (S 54)
 * Social capital= everything that results from interactions within a social network which could potentially create benefits (e.g. public safety, culture of punctuality, reputation, trust, power, respect), factor in the success of societies (S 54)
 * Social capital can easily be burned, e.g. after a plane crash or in a financial crisis, when trust erodes (S 55)
 * Trust is only sustainable basis of power  and social order
+
+#Google as God? The Dangerous Promise of Big Data
+* What are the implications of god-like knowledge through aggregating all available data? (S 61)
+* Given computers are better pilots, drivers, chess-players than us, why shouldn't they be better policemen, administrators, lawyers, politictians too? (S 63)
+* Use digital crystal ball to predict the future, but what if people decide differently than predicted? Specifically tailored information could manipulate us, similar to personalized ads nowadays (S 65)
+* Magic wand = control everything with access to all data (just assume something like that could exist), might lead to totalitarian society (S 65)
+* Big Brother already is happening to some extent (predictive policing, mass surveillance), but also the wise king: for example manipulated search engine results (S 66)
+* Goal function to maximise (as benevolent dictator) is not well defined (S 70)
+* Three types of errors when categorising solutions to problems: Type I (False positives), Type II (false negatives) and too simple models (S 70)
+* Such crystal balls are probably impossible (S 72)
+* Magic wand with top-down-control would be very ineffective, bottom-up, questioning decisions and actions of others more beneficial (S 72)
+* Human-influenced systems (e.g. society) too complex for benevolent dictator: dynamic complexity, structural complexity, functional complexity and algorithmic complexity --- Top-down approaches of governing this world must fail (S 75)
