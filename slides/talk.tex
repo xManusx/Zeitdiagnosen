@@ -1,0 +1,66 @@
+%\includeonly{content/pbd, content/namelookup}
+
+\usepackage{ifdraft}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[ngerman]{babel}
+\usepackage[babel,german=quotes]{csquotes}
+\usepackage{lmodern}
+\usepackage{graphicx}
+\usepackage{pgf}
+
+\usepackage{xcolor}
+\usepackage{relsize}
+
+\usepackage{pgfplotstable}
+\usepackage{pgfplots}
+
+\colorlet{darkgreen}{green!50!black}
+
+	
+
+%c from texinfo.tex
+\def\ifmonospace{\ifdim\fontdimen3\font=0pt }
+
+%c Cool Quote
+\newcommand{\quoteframe}[3]
+{
+	\begin{frame}
+		\begin{quote}
+		\Huge#3
+		\end{quote}
+		\vskip0pt plus 1filll
+		\begin{minipage}{\textwidth}
+			\begin{flushright}
+			\LARGE#1
+			\\
+			\normalsize#2
+			\end{flushright}
+		\end{minipage}
+	\end{frame}
+}
+
+\usetheme{fau-4-3}
+%\usetheme{boxes}
+
+\begin{document}
+% Title page
+\title[Automation of Society is next]{The Automation of Society is next}
+\subtitle{How to survive the digital revolution}
+\author{Magnus Berendes}
+\date{Erlangen, \the\year-\ifnum\month<10\relax0\fi\the\month-\ifnum\day<10\relax0\fi\the\day}
+\institute{}
+
+
+
+\input{settings}
+
+
+\frame[plain,c]{\titlepage
+	\note{Testing 1 2 3}
+} % plain-Option deaktiviert Kopf- und Fusszeile
+
+
+
+\input{content/skeleton.tex}
+\end{document}

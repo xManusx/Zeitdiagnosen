@@ -1,0 +1,19 @@
+% Newer versions pdftexs are not accepted by acrobat
+\pdfminorversion=4
+\documentclass[t]{beamer}
+\setbeameroption{show only notes}
+\usepackage{ifxetex}
+
+\makeatletter
+ \def\beamer@framenotesbegin{% at beginning of slide
+   \gdef\beamer@noteitems{}%
+   \gdef\beamer@notes{{}}% used to be totally empty.
+ }
+\makeatother
+
+\ifxetex
+	\newcount\pdflastximagepages
+    \def\pdfximage#1{\pdflastximagepages=\XeTeXpdfpagecount"#1"\relax}
+\fi
+
+\input{talk.tex}
