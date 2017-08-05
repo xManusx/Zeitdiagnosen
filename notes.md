@@ -112,3 +112,12 @@
 * Win-lose interactions can be made win-win by compensating the losing party (S 143)
 * Digital assistants could make us aware of possibilities/opportunities that would otherwise be missed (we walk past 100s of people who share interests with us without noticing) (S 143)
 * These social technologies could become reality with smartphones
+
+# Networked Minds --- Where Human Evolution is Heading
+* Humans are curious by natures, social, information-driven species. That's why explosion in data volume and processing power will transform society more fundamentally than other techs in the past (S 147)
+* Wisdom of Crowds: avg. of guesses about weight of an ox is incredibly close to actual weight (S 148)
+* For wisdom of crowds to work: need independent information gathering, decentralized opinion formation and diversity of opinions (S 148)
+* Instead of homo economicus, people are driven by a variety of different incentive systems and switch between them. (S 149)
+* Intellectual curiosity is driver of human behavior (apart from basic needs as food, sex, etc.) (S 150)
+* Lots of evolutionary psychology with questionable contents (S 150 f)
+
