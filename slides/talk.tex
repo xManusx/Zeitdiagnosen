@@ -6,8 +6,14 @@
 \usepackage[ngerman]{babel}
 \usepackage[babel,german=quotes]{csquotes}
 \usepackage{lmodern}
+\usepackage{anyfontsize}
 \usepackage{graphicx}
 \usepackage{pgf}
+%\usepackage[orientation=landscape,size=custom,width=16,height=9.75,scale=0.5, debug]{beamerposter}
+
+\newenvironment<>{examplefirst}[1]{%
+  \setbeamercolor{block title}{fg=white,bg=red!75!black}%
+  \begin{block}#2{#1}}{\end{block}}
 
 \usepackage{xcolor}
 \usepackage{relsize}
@@ -41,14 +47,20 @@
 }
 
 \usetheme{fau-4-3}
-%\usetheme{boxes}
+%\useinnertheme[shadow]{rounded}
+%\setbeamercolor{block title}{use=structure,fg=white,bg=faublue}
+%\setbeamerfont{block title}{size=\Huge}
+%\setbeamercolor{block body}{bg=black!20}
+
+
 
 \begin{document}
 % Title page
-\title[Automation of Society is next]{The Automation of Society is next}
+\title[Automation of Society]{The Automation of Society is next}
 \subtitle{How to survive the digital revolution}
 \author{Magnus Berendes}
-\date{Erlangen, \the\year-\ifnum\month<10\relax0\fi\the\month-\ifnum\day<10\relax0\fi\the\day}
+%\date{Erlangen, \the\year-\ifnum\month<10\relax0\fi\the\month-\ifnum\day<10\relax0\fi\the\day}
+\date{Erlangen, 08.08.2017}
 \institute{}
 
 
