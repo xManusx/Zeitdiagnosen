@@ -120,4 +120,89 @@
 * Instead of homo economicus, people are driven by a variety of different incentive systems and switch between them. (S 149)
 * Intellectual curiosity is driver of human behavior (apart from basic needs as food, sex, etc.) (S 150)
 * Lots of evolutionary psychology with questionable contents (S 150 f)
+* If one desire is fulfilled, another incentive system takes over. Same when one desire is depraved for a long time: people compensate with fulfilling other kinds of rewards (S 152)
+* Natural hierachy of desires; when a new industry emerges, it changes the character of society by placing additional weight on desires that didn't exist previously or were looming in the background (S 153)
+* Computer simulation of prisoner's dilemma; "friendlyness" (amount of other-regarding in utility function) emerges from mutation during reproduction; in some cases (not much intergenerational migration, meaning children live close to parents with whom they are similar in regard to friendlyness (S 155 f)
+* If lots of people are friendly, friendly behavior pays off (S 157)
+* Conventional statistics can be enough to characterize homo economicus, but homo socialis are interdependent => Need complexity science! (S 159)
+* Homo socialis may be best described by the term "networked minds" (S 159)
+* Homo socialis is more successfull than homo economicus, even when only measured in terms of individual success. Invisible hand doesn't work for homo economicus (market failures), but workds for homo socialis that interacts with like-minded individuals considering externalities of decisions => Need new economic thinking, "economy 2.0" (S 159)
+* Lesson from Netflix-Challenge: with complex problems, diversity wins, not the best approach => argument for democracy (S 160)
+* Need knowledge base of trustable and unbiased information for collective intelligence to work (S 161)
+* Neither top-down nor simple majority vote can cope with increasing complexity (S 162)
+* Rather than simple majority vote, future success principle should be to get as many good ideas on board (diversity wins!) and produce as many "winners" as possible (S 163)
+* Nowadays, spreading ideas or memes has become more important than spreading genes (S 165)
+* Information systems support "networked minds" and enable "collective intelligence" (S 166)
 
+# The Economy 4.0 --- A participatory market society is born
+* Economy 4.0 = Paricipatory Market Society: characterized by uibiquity of information, bottom-up participation, "co-creation", self-organization and collective intelligence as new organizational principles (S 171)
+* We need information platforms which can harness the diverse knowledge in our society and support more effective decision-making to overcome problems with growing complexity (S 172)
+* World will change dramatically:
+	* Personalized Education: Will need less standardized education but more personalized learning focused on imagination, creativit, innovation and collaboration (S 173)
+	* Science will use Big Data as a method of generating hypothesises (S 174)
+	* Health will use Big Data to make diagnoses more reliable or stop disease from spreading (such as flunearyou or influenzanet) (S 174)
+	* Media already underwent dramatic changes from papers and TV to online journalism, blogs and streaming (S 176)
+	* Legislation and regulation could become more flexible, more tailored towards local needs, more diverse; Tranfer responsibility for externalities to the beneficiaries instead of compensating through regulation (S 177)
+* Economy is becoming more share-based right now (S 180)
+* Democratization of Production is happening, people become "prosumers" (S 180)
+* Shift from company-centric market to user-centric: Companies that don't care about consumers wishes and opinions will vanish, while those who do will flourish (S 180)
+* Besides getting rich by cutting costs and rationalization, where immaterial goods are produced, co-creation and social synergy effects offer a second way of creating value (S 181)
+* New forms of employment emerge (e.g. mechanical turk) (S 182)
+* Project based socio-economic organization - no more companies but people working together on single projects. More flexible, avoids the Peter-Principle, already happening in the Open Source world (S 183)
+* Top-Down enables fast decision making and reaching optimal outcomes if the goal is well defined and the system isn't too complex (S 185)
+* Bottom-up works bet6ter under complex and highly variable conditions, if suitable coordination mechanisms are in place (e.g. immune system). good education and willingness to take responsibility at the bottom is required (S 186)
+* Example for combining top-down and bottom-up strategies: Disaster recover
+		People use apps such as *amigocloud* or *helping hands* to coordinate themselves with other people and help each other on a local level. Top-Down Emergency teams then can focus on problems and regions where people can't help themselves
+* Other example: company experiences economic downturn. Instead of laying off people, engage people to find new product ideas, using skills, knowledge and machinery that are already available. If promising, turn them into spin-off companies
+* Instead of creating walled gardens as Silicone Valley, Europe should catch up with an Open Data approach: data is/will be cheap, money would be made by distilling useful information from raw data and by distilling applicable knowledge from information (S 192)
+* Homogenization of systems is a threat as it makes systems more vulnerable to disruptions (S 194)
+* In the past built roads for industrial society and schools for service society, now build public institutions for digital society: open and participatory information platforms, supporting people to make better decisions, act more effectively and to coordinate and help each other (S 194)
+
+# The Self-Organizing Society --- Taking the Future in our Hands
+* Number of unexpected discoveries in this book:
+	* Having/using more data is not always better => Overfitting, spurious correlations (p-hacking?), classification errors (S 199)
+	* Even if individual decisions can be predicted with an error level of 5%, does not mean that macro level socio-economic outcome can be predicted well (S 199)
+	* Even perfect knowledge of all individual component properties does not necessarily allow predictions about what happens when components interact in a complex dynamical system (S 200)
+	* Most important issue: wether system is stable or unstable. (S 200)
+	* Surprises will happen in complex socio-economic systems => Society should be organized in a way that can deal flexibly with disruptions (S 200)
+	* In complex dynamical systems, distributed control can outperform top-down control attempts by flexibly adapting to local conditions and needs (S 200)
+	* Centralized approaches may fail to identify variables that matter (just too much data around => flashlight effect) (S 200)
+	* Diversity and complexity are not our problem. They come along with innovation, socio-economic differentiation and cultural evolution. But we need to learn how to use these to our advantage => understand hidden forces behind socio-economic change and use self-organization and digital assistants (using artificial and collective intelligence) to support coordination of actors with diverse interests and goals. (S 201)
+* Diversity is crucial for distributed collective intelligence, which is better suited to respond to the combinatorial complexity of our world than an artificial superintelligence (S 201)
+* Cybernetic/technocratic society vs. synergetic society = builds on local coordination of autonomous processes and on catalyzing mutual benefits (S 201)
+* Supercomputers can't optimize our wolrd in real-time, the data-driven crystal ball and magic wand are not possible (S 202)
+	* Increase in data outmatches increase in computing power (S 202)
+	* Complexity of man-made systems grows faster than data volume => relative lack of computational power will increase rather than decrease (S 202)
+	* Right now: policymakers try to control complexity7 from top-down, using regulations => high over-regulation and high debt
+	* Don't need more power to solve problems of our world, but more wisdom and more citizen participation (S 202)
+* Idea of a benevolent dictator always leads to totalism and is doomed to fail (S 203)
+* We need collective intelligence, which requires diversity rather than conformity (S 204)
+* Key to success is symbiotic relationship between companies, digitally literate citizens, customers and users; creating a win-win-win situation (business, citizens, state) (S 204)
+* Negative outcomes of self-organization (traffic jams, crows disasters, financial crisis, ...) can be avoided by changing the interaction rules (S 205)
+* Sensor networks behind IoT enable us to realize Smith's vision of self-organizing systems => need to change the way we think about global governance (S 205)
+* Instead of measuring everything with IoT and storing the data, produce Smart Data approach: tailured measurements produce temporary data for specific users (S 206)
+* How to make invisible hand work:
+	* Externalities (reputation, happiness, wealth, emissions, waste, noise, ...) can be altered by introducing or modifying feedback loops, for example by introducing value exchange. In economic systems feedback is provied by financial costs or rewards, in social systems common to use incentives or sanctions. But other kinds of information exchange and coordination mechanisms are more efficient ("altruistic signaling" for example)
+	* Single feedback mechanism (e.g. money) is too restricted to let complex socio-economic system self-organize => need multi-dimensional incentive and value exchange system (S 206)
+	* Nervousnet can measure externalities and feed them back to decision-making entities, s.t. efficient and desirable outcomes are produced
+* Digital assistants could help us create situational awareness, including potential side effects and risks implied by certain decisions and interactions (S 207)
+* The secrets of self organization: (S 208)
+	* Based on simple local interactions which enable mutual adaption
+	* Example: Social norms, based on compliance mechanisms such as sanctions and rewards
+	* In our economy: money only reward mechanism => one dimensional
+	* Need multi-dimensional incentive and exchange system => reputation systems, ratings, scores
+	* Self-rule fosters socio-economic diversity, innovation, happiness and resilience of the overall system
+	* Favorable self-organization requires an active endeavor to find and implement suitable set of rules
+* New Interaction rules can be found using simulations, lab/web experiments, interactive online-player games or Virtual Worlds (S 209)
+* Can try to find the hidden mechanisms behind the world's cultures. Those are implicit right now, but could be made explicit (S 209)
+
+* Proposals for immediate action (S 213)
+	* Improve systemic resilience: Build "shock absorbers"/"engineered breaking points" into our systems, which can stop cascades by decoupling parts of the system. Learn to understand and use diversity as an asset: to achieve sustainable and good systemic solutions, it's important to combine diverse solutions in ways that create "collective intelligence" and resilient systems.
+	* Reduce laws and regulations in order to support diversity and its many positive side effects: every law could have a limited term of validity. No "one-size-fits-all" solution, but choice of two or three options, based on best practice. Then, a culturally and locally fitting solution can be found. In many cases, compulsory regulations could be replaced by guidelines (S 214)
+	* Build a reputation system to promote awareness, quality and responsible action: attempts to manipulate rankings or to spam the system should be discouraged; facts, advertisements and opinions should be distinguishable, anonymous, pseudonymous or public ratings should be possible, but weighted differently
+	* Rebalance top-down and bottom-up decision-making according to the well-established principle of subsidiarity: use information systems and multi-dimensional reward systems to coordinate local activities, faciliate self-regulation. 
+	* Establish a new data format based on the data cord principle (subject of personal data owns it) to enable informational self-determination and micro-payments (the more often data is used or copied, the generated profit would be distributed to different beneficiaries on the value-generating chain)
+	* Create a multi-dimensional financial system to have a backup system and make our financial system more functional and resilient: create complementary, multi-dimensional financial system
+	* Use information systems and other measurement methods to determine externalities and compensate for them: Reward people and companies for external benefits created by them. Make people pay for the damage they produce => need infrastracture to measure and quantify benefits and damages => IoT (S 216)
+	* Tax systemic risks and provide rewards for transparency, responsibility, data access, informational self-determination, and open innovation
+	* Build the infrastructure and institutions for the digital society: Similar to Apollo space program

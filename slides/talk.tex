@@ -7,6 +7,7 @@
 \usepackage[babel,german=quotes]{csquotes}
 \usepackage{lmodern}
 \usepackage{anyfontsize}
+\usepackage[babel, expansion=true, protrusion=true]{microtype}
 \usepackage{graphicx}
 \usepackage{pgf}
 %\usepackage[orientation=landscape,size=custom,width=16,height=9.75,scale=0.5, debug]{beamerposter}
@@ -14,6 +15,8 @@
 \newenvironment<>{examplefirst}[1]{%
   \setbeamercolor{block title}{fg=white,bg=red!75!black}%
   \begin{block}#2{#1}}{\end{block}}
+
+\newcommand{\gend}{$^*$}
 
 \usepackage{xcolor}
 \usepackage{relsize}
@@ -61,16 +64,20 @@
 \author{Magnus Berendes}
 %\date{Erlangen, \the\year-\ifnum\month<10\relax0\fi\the\month-\ifnum\day<10\relax0\fi\the\day}
 \date{Erlangen, 08.08.2017}
-\institute{}
+\institute{Zeitdiagnosen der digitalen Gesellschaft}
 
 
 
 \input{settings}
 
 
-\frame[plain,c]{\titlepage
-	\note{Testing 1 2 3}
-} % plain-Option deaktiviert Kopf- und Fusszeile
+\ifdraft{\begin{frame}
+		TITLEPAGE
+	\end{frame}
+	}{
+	\frame[plain,c]{\titlepage
+	} % plain-Option deaktiviert Kopf- und Fusszeile
+}
 
 
 
